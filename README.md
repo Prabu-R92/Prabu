@@ -1,4 +1,4 @@
-# Prabu
+# L & T Financial Services Hackathon problem
 The problem was to determine the case count on a daily basis for the entire country!
 There were three files given:
 Train, test and submission
